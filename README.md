@@ -1,14 +1,21 @@
-# K-Means Clustering from Scratch
-This project implements the K-Means clustering algorithm from scratch using only NumPy — no machine learning libraries involved in the core model.
+# 🔹 K-Means Clustering from Scratch
 
-Includes:
-Full K-Means algorithm with centroid initialization, assignment, and update steps\n
-Custom implementation using only NumPy (no scikit-learn clustering)\n
-multiple 2D datasets\n
-visualization using matplotlib
+This project implements the **K-Means clustering algorithm from scratch** using only **NumPy** — no machine learning libraries involved in the core model.
 
-Datasets Generated using sklearn.datasets:
-Blobs
-Moons
-Circles
-Classification
+## Features
+- Full K-Means algorithm with:
+  - Centroid initialization
+  - Assignment step
+  - Update step
+- Custom implementation using only NumPy (no `scikit-learn` clustering)
+- Works with multiple 2D datasets
+- Optional visualization using `matplotlib`
+
+## Datasets
+
+Generated using `sklearn.datasets`:
+- Blobs
+- Moons
+- Circles
+- Classification
+
