@@ -1,4 +1,4 @@
-# 🔹 K-Means Clustering from Scratch
+# K-Means Clustering from Scratch
 
 This project implements the **K-Means clustering algorithm from scratch** using only **NumPy** — no machine learning libraries involved in the core model.
 
