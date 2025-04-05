@@ -9,7 +9,7 @@ This project implements the **K-Means clustering algorithm from scratch** using 
   - Update step
 - Custom implementation using only NumPy (no `scikit-learn` clustering)
 - Works with multiple 2D datasets
-- Optional visualization using `matplotlib`
+- visualization using `matplotlib`
 
 ## Datasets
 
